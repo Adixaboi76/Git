@@ -1,0 +1,27 @@
+SSH OVPN ACCOUNT
+Username         : spidey
+Password         : 1234
+Host             : ultspidey.tech
+Host Slowdns     : dns.ky99ojl.aryablitar.filegear-sg.me
+Pub Key          : 64cb6f39364ed309140d5df63b6fad405794787ad6924ecfdc731027603f957d
+Port OpenSSH     : 443, 80, 22
+Port DNS         : 443, 53 ,22
+Port SSH UDP     : 1-65535
+Port Dropbear    : 443, 109
+Port SSH WS      : 80, 8080, 8081-9999
+Port SSH SSL WS  : 443
+Port SSL/TLS     : 400-900
+Port OVPN WS SSL : 443
+Port OVPN SSL    : 443
+Port OVPN TCP    : 443, 1194
+Port OVPN UDP    : 2200
+BadVPN UDP       : 7100, 7300, 7300
+Format Hc        : ultspidey.tech:80@spidey:1234
+Payload WSS      : GET wss://BUG.COM/ HTTP/1.1[crlf]Host: ultspidey.tech[crlf]Upgrade: websocket[crlf][crlf]
+OVPN Download    : https://ultspidey.tech:81/
+Save Link Account: https://ultspidey.tech:81/ssh-spidey.txt
+Aktif Selama     : 7 Hari
+Dibuat Pada      : 25 Oct, 2024
+Berakhir Pada    : 01 Nov, 2024
+ Sc Arya Blitar
+Press any key to back on menu
